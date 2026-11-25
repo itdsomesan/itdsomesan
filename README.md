@@ -12,7 +12,7 @@ AI automation and QA. I build practical automations for small businesses (Synaps
 | Toolfinder | UK AI tools directory | Live | private |
 | MyWillKit | Multilingual will and document help | Live | private |
 | Bruno | Document assistant | WIP | private |
-| Reynolds QA portal | QA site photo and defect workflow (anonymised) | Built | private |
+| QA portal | QA site photo and defect workflow (anonymised) | Built | private |
 | Make automations | Early scenarios | Archived | private |
 | Learning app | Study app prototypes | WIP | private |
 
