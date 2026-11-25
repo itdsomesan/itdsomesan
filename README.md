@@ -8,7 +8,7 @@ AI automation and QA. I build practical automations for small businesses (Synaps
 |---|---|---|---|
 | Garage voice agent pilot | AI phone assistant for a UK garage: answers missed calls, takes the booking details, the owner confirms. Customer data and call records stay private | Pilot in preparation | private |
 | Synaps-AI website | Site for my AI automation consultancy, aimed at garages and small service businesses | Live | [synaps-ai.co.uk](https://synaps-ai.co.uk) |
-| AI tools directory | UK directory of AI tools with a GDPR check, fed by a form, n8n and Baserow | Live | private repo, live link on request |
+| AI tools directory | UK directory of AI tools for small businesses. Tools are submitted through a form and reviewed before they are listed | Live | private repo, live link on request |
 
 ## Other projects
 
